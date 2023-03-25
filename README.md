@@ -16,7 +16,7 @@ This is a simple password generator built using Python. It allows users to gener
 2. Open the command prompt and navigate to the directory where the repository is saved.
 3. Run the following command to generate a password:
 ```python
-      python Pass_Gen.ipynb
+      python Pass_Gen.py
 ```
 4. Follow the prompts to choose your desired password length and complexity.
 
