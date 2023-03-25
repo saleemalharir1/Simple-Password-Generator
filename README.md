@@ -15,9 +15,9 @@ This is a simple password generator built using Python. It allows users to gener
 1. Clone the repository to your local machine.
 2. Open the command prompt and navigate to the directory where the repository is saved.
 3. Run the following command to generate a password:
-
-python password_generator.py
-
+```python
+      python password_generator.py
+```
 4. Follow the prompts to choose your desired password length and complexity.
 
 ## License
